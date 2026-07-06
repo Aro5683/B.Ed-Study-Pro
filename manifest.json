@@ -1,0 +1,16 @@
+{
+  "name": "B.Ed Study Pro",
+  "short_name": "B.Ed Study",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2ff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2201/2201509.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
